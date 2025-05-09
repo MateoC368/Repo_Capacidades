@@ -1,0 +1,22 @@
+C:\Users\ciche\OneDrive\Escritorio\Proyectos Visual Studio\Evaluacion_Cichello\Evaluacion_Cichello\bin\Debug\Evaluacion_Cichello.exe.config
+C:\Users\ciche\OneDrive\Escritorio\Proyectos Visual Studio\Evaluacion_Cichello\Evaluacion_Cichello\bin\Debug\Evaluacion_Cichello.exe
+C:\Users\ciche\OneDrive\Escritorio\Proyectos Visual Studio\Evaluacion_Cichello\Evaluacion_Cichello\bin\Debug\Evaluacion_Cichello.pdb
+C:\Users\ciche\OneDrive\Escritorio\Proyectos Visual Studio\Evaluacion_Cichello\Evaluacion_Cichello\bin\Debug\Evaluacion_Cichello.xml
+C:\Users\ciche\OneDrive\Escritorio\Proyectos Visual Studio\Evaluacion_Cichello\Evaluacion_Cichello\obj\Debug\Evaluacion_Cichello.vbproj.AssemblyReference.cache
+C:\Users\ciche\OneDrive\Escritorio\Proyectos Visual Studio\Evaluacion_Cichello\Evaluacion_Cichello\obj\Debug\Evaluacion_Cichello.Resources.resources
+C:\Users\ciche\OneDrive\Escritorio\Proyectos Visual Studio\Evaluacion_Cichello\Evaluacion_Cichello\obj\Debug\Evaluacion_Cichello.vbproj.GenerateResource.cache
+C:\Users\ciche\OneDrive\Escritorio\Proyectos Visual Studio\Evaluacion_Cichello\Evaluacion_Cichello\obj\Debug\Evaluacion_Cichello.vbproj.CoreCompileInputs.cache
+C:\Users\ciche\OneDrive\Escritorio\Proyectos Visual Studio\Evaluacion_Cichello\Evaluacion_Cichello\obj\Debug\Evaluacion_Cichello.exe
+C:\Users\ciche\OneDrive\Escritorio\Proyectos Visual Studio\Evaluacion_Cichello\Evaluacion_Cichello\obj\Debug\Evaluacion_Cichello.xml
+C:\Users\ciche\OneDrive\Escritorio\Proyectos Visual Studio\Evaluacion_Cichello\Evaluacion_Cichello\obj\Debug\Evaluacion_Cichello.pdb
+C:\Users\ciche\Desktop\Evaluacion_Cichello-20250408T224805Z-001\Evaluacion_Cichello\Evaluacion_Cichello\bin\Debug\Evaluacion_Cichello.exe.config
+C:\Users\ciche\Desktop\Evaluacion_Cichello-20250408T224805Z-001\Evaluacion_Cichello\Evaluacion_Cichello\bin\Debug\Evaluacion_Cichello.exe
+C:\Users\ciche\Desktop\Evaluacion_Cichello-20250408T224805Z-001\Evaluacion_Cichello\Evaluacion_Cichello\bin\Debug\Evaluacion_Cichello.pdb
+C:\Users\ciche\Desktop\Evaluacion_Cichello-20250408T224805Z-001\Evaluacion_Cichello\Evaluacion_Cichello\bin\Debug\Evaluacion_Cichello.xml
+C:\Users\ciche\Desktop\Evaluacion_Cichello-20250408T224805Z-001\Evaluacion_Cichello\Evaluacion_Cichello\obj\Debug\Evaluacion_Cichello.vbproj.AssemblyReference.cache
+C:\Users\ciche\Desktop\Evaluacion_Cichello-20250408T224805Z-001\Evaluacion_Cichello\Evaluacion_Cichello\obj\Debug\Evaluacion_Cichello.Resources.resources
+C:\Users\ciche\Desktop\Evaluacion_Cichello-20250408T224805Z-001\Evaluacion_Cichello\Evaluacion_Cichello\obj\Debug\Evaluacion_Cichello.vbproj.GenerateResource.cache
+C:\Users\ciche\Desktop\Evaluacion_Cichello-20250408T224805Z-001\Evaluacion_Cichello\Evaluacion_Cichello\obj\Debug\Evaluacion_Cichello.vbproj.CoreCompileInputs.cache
+C:\Users\ciche\Desktop\Evaluacion_Cichello-20250408T224805Z-001\Evaluacion_Cichello\Evaluacion_Cichello\obj\Debug\Evaluacion_Cichello.exe
+C:\Users\ciche\Desktop\Evaluacion_Cichello-20250408T224805Z-001\Evaluacion_Cichello\Evaluacion_Cichello\obj\Debug\Evaluacion_Cichello.xml
+C:\Users\ciche\Desktop\Evaluacion_Cichello-20250408T224805Z-001\Evaluacion_Cichello\Evaluacion_Cichello\obj\Debug\Evaluacion_Cichello.pdb
